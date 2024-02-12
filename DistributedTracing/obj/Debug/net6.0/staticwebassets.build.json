@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dCvR/ffHl0e15DAbCQ5gtuakYOlPS2nqXQKhxjUDL5Q=",
+  "Source": "DistributedTracing",
+  "BasePath": "_content/DistributedTracing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
